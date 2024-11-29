@@ -1,0 +1,6 @@
+[book]
+authors = ["'yangdax1an'"]
+language = "en"
+multilingual = false
+src = "src"
+title = "my-book"
